@@ -1,4 +1,4 @@
-# Format Select
+# Format Select (2022/6/21)
 - Add-on for Google Docs
   - Apply same format to content in different places without reselecting formats
 

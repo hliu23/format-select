@@ -1,4 +1,4 @@
-# Format Select
+# Format Select (2022/6/21)
 - Add-on for Google Docs
   - User creates and selects formatting rule (and optionally names and saves it)
     - Ex. red highlight & font size 14

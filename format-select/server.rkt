@@ -8,10 +8,10 @@
     '(html (head (title "racket")
            (body (h1 "working?"))))))
 
-(define (port 
+(define port 
           (if (getenv "PORT")
             (string->number (getenv "PORT"))
-            8080)))
+            8080))
 
 (serve/servlet start 
                #:servlet-path "/"

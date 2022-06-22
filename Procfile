@@ -1,1 +1,1 @@
-web: racket format-select/server.rkt
+web: racket -l format-select/server

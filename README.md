@@ -13,7 +13,7 @@
 ## Screenshots
 - Before the Add-on:  
   - Applying format by hand:   
-![Applying same format at two places](media/gif-before.gif)
+![Applying same format at two places](./media/before.gif)
 
 ### Credits
 https://lexi-lambda.github.io/blog/2015/08/22/deploying-racket-applications-on-heroku/  
